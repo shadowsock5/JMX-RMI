@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmxrmi-test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/jmxrmi_test_jar/jmxrmi-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
