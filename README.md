@@ -1,3 +1,4 @@
+cd web
 python3 -m http.server 4141
 
 ## Demo
